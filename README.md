@@ -8,6 +8,9 @@ It is primarily used as a wiki page for your project. This will have all that is
 https://github.com/raphaelfabeni/css-loader/blob/master/README.md
 
 #### THIS! This is why we do what we do! 
-https://www.youtube.com/watch?v=afvT1c1ii0c
 
+https://www.youtube.com/watch?v=afvT1c1ii0c
 (Source: How we build software. | GitHub)
+
+https://www.youtube.com/watch?v=Nq6ZqgozPF8&t
+(Source: WWDC 2018 — Source Code — Apple | Apple Inc.)
