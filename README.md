@@ -6,3 +6,8 @@ It is primarily used as a wiki page for your project. This will have all that is
 
 #### For an example of how the README file could look, click here:
 https://github.com/raphaelfabeni/css-loader/blob/master/README.md
+
+#### THIS! This is why we do what we do! 
+https://www.youtube.com/watch?v=afvT1c1ii0c
+
+(Source: How we build software. | GitHub)
